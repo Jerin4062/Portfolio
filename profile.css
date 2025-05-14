@@ -1,0 +1,86 @@
+h1{
+    text-align: center;
+    background: linear-gradient(to right, rgb(12, 15, 18), rgb(242, 246, 250));
+    font-family: "Roboto", sans-serif;
+    font-size: 60px;
+    font-weight: bold;
+    color: rgb(9, 9, 9);
+    width: 1500px;
+    text-align: center;
+    font-style:italic;
+}
+h3{
+    position: relative;
+    top: 5px;
+    margin-left: 700px;
+    width: 350px;
+    color: antiquewhite;
+    text-align: center;
+}
+#div1>u{
+    background-color: rgb(100, 128222, 152);
+    text-decoration: solid;
+    text-decoration-line: none;
+    font-size: 50px;
+    color: rgb(9, 9, 9);
+
+  
+}
+u :hover{
+    color: rgb(9, 9, 9);
+}
+#div2{
+    background-color: rgb(154, 127, 87);
+}
+img{
+    position: absolute;
+    border-image: fill;
+    width: 300px;
+    height: 300px;
+    position: relative;
+    top: 60px;
+    border-radius: 100px;
+    object-fit: cover;
+    padding-left: 300px;
+}
+#b {
+    position: absolute;
+    height: 400px;        
+    width: 2px;
+    margin-left: 600px;           
+    background-color: rgb(4, 4, 4); 
+    text-align: center;
+    top: 200px;
+  }
+  
+body{
+    width: 100%;
+    background-image: url("abstract-black-painted-watercolor-background-generative-ai_69037-2086.avif");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;    
+    width: 100%;
+    overflow: scroll;
+    font-style:italic;
+
+}
+  h3:hover{
+    font-size: 40px;
+  }
+  div p{
+        position: relative;
+        left: 750PX;        
+        font-size: 30PX;
+        width:600PX;
+        bottom:  300px;
+        text-indent: 15px;
+        padding-top: 100px;
+        color: rgb(9, 9, 9);
+
+    }span{
+        text-decoration: wavy;
+        font-size: 60px;
+    }
+   
+ 
+  
